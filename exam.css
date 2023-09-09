@@ -11,10 +11,8 @@
     src: url(./roboto/Roboto-Regular.ttf) format(truetype);
 }
 .wrapper{
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    width: 1200px;
+    /* display: none; */
 }
 .navbar{
     width: 100%;
